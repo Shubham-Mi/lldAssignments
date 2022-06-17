@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e87ce3a5-7f70-4c8d-9a82-e8bf6a759342" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/builder/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/SingletonExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/builder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/builder/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/builder/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +37,26 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.designPatterns.singleton.Main">
+  <component name="RunManager" selected="Application.designPatterns.builder.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignments.solidprinciples.Main" />
       <module name="lldAssignments" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="assignments.solidprinciples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="designPatterns.builder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.builder.Main" />
+      <module name="lldAssignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.designPatterns.builder.Main" />
         <item itemvalue="Application.designPatterns.singleton.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -92,7 +104,7 @@
       <workItem from="1655488476468" duration="47000" />
       <workItem from="1655488535621" duration="159000" />
       <workItem from="1655488721640" duration="869000" />
-      <workItem from="1655490394241" duration="782000" />
+      <workItem from="1655490394241" duration="1735000" />
     </task>
     <servers />
   </component>
