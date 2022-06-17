@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e87ce3a5-7f70-4c8d-9a82-e8bf6a759342" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/builder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/builder/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/SingletonExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Crow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Crow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviourType1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviourType1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviourType2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviourType2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Ostrich.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Ostrich.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Pigeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Pigeon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Sparrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Sparrow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,7 +39,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.designPatterns.singleton.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignments.solidprinciples.Main" />
       <module name="lldAssignments" />
@@ -53,8 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="designPatterns.singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.singleton.Main" />
+      <module name="lldAssignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.designPatterns.singleton.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -73,6 +87,12 @@
       <workItem from="1655380026536" duration="4000" />
       <workItem from="1655380035879" duration="7000" />
       <workItem from="1655473069190" duration="85000" />
+      <workItem from="1655484012823" duration="80000" />
+      <workItem from="1655484096389" duration="21000" />
+      <workItem from="1655488476468" duration="47000" />
+      <workItem from="1655488535621" duration="159000" />
+      <workItem from="1655488721640" duration="869000" />
+      <workItem from="1655490394241" duration="782000" />
     </task>
     <servers />
   </component>
