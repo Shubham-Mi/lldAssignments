@@ -1,4 +1,4 @@
-package assignments.solidprinciples;
+package solidprinciples;
 
 public class FlyingBehaviourType1 implements FlyingBehaviour{
     @Override

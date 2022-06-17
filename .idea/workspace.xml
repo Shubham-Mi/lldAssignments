@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e87ce3a5-7f70-4c8d-9a82-e8bf6a759342" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lldAssignments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Crow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Crow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviourType1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviourType1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviourType2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/FlyingBehaviourType2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Ostrich.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Ostrich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Pigeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Pigeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solidprinciples/Sparrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciples/Sparrow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Aeo66GuwquBtPIWLe1pAwqCbNz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,6 +68,11 @@
       <option name="presentableId" value="Default" />
       <updated>1655379233960</updated>
       <workItem from="1655379235296" duration="5000" />
+      <workItem from="1655379315941" duration="201000" />
+      <workItem from="1655379522353" duration="5000" />
+      <workItem from="1655380026536" duration="4000" />
+      <workItem from="1655380035879" duration="7000" />
+      <workItem from="1655473069190" duration="85000" />
     </task>
     <servers />
   </component>

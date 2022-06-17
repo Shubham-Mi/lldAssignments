@@ -1,6 +1,4 @@
-package assignments.solidprinciples;
-
-import java.util.Locale;
+package solidprinciples;
 
 public abstract class Bird {
     private String color;

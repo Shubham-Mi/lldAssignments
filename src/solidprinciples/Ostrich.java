@@ -1,4 +1,4 @@
-package assignments.solidprinciples;
+package solidprinciples;
 
 public class Ostrich extends Bird{
 

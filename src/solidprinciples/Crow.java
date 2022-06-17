@@ -1,4 +1,4 @@
-package assignments.solidprinciples;
+package solidprinciples;
 
 public class Crow extends Bird implements Flyable{
     private FlyingBehaviour fl;
