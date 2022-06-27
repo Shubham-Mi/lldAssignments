@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e87ce3a5-7f70-4c8d-9a82-e8bf6a759342" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/BirdRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Clonable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Crow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Sparrow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/builder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/builder/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/builder/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,7 +42,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.designPatterns.builder.Main">
+  <component name="RunManager" selected="Application.designPatterns.prototype.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignments.solidprinciples.Main" />
       <module name="lldAssignments" />
@@ -64,6 +69,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="designPatterns.prototype.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.prototype.Main" />
+      <module name="lldAssignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="designPatterns.singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designPatterns.singleton.Main" />
       <module name="lldAssignments" />
@@ -79,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.designPatterns.prototype.Main" />
         <item itemvalue="Application.designPatterns.builder.Main" />
         <item itemvalue="Application.designPatterns.singleton.Main" />
         <item itemvalue="Application.Main" />
@@ -104,7 +123,19 @@
       <workItem from="1655488476468" duration="47000" />
       <workItem from="1655488535621" duration="159000" />
       <workItem from="1655488721640" duration="869000" />
-      <workItem from="1655490394241" duration="1735000" />
+      <workItem from="1655490394241" duration="1912000" />
+      <workItem from="1655492316659" duration="8000" />
+      <workItem from="1656252358097" duration="23000" />
+      <workItem from="1656252540543" duration="11000" />
+      <workItem from="1656308393212" duration="123000" />
+      <workItem from="1656308537591" duration="404000" />
+      <workItem from="1656308953782" duration="26000" />
+      <workItem from="1656308992452" duration="62000" />
+      <workItem from="1656309063203" duration="178000" />
+      <workItem from="1656309270699" duration="39000" />
+      <workItem from="1656309329972" duration="41000" />
+      <workItem from="1656309384158" duration="219000" />
+      <workItem from="1656309621320" duration="109000" />
     </task>
     <servers />
   </component>
