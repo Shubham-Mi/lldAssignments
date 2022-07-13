@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e87ce3a5-7f70-4c8d-9a82-e8bf6a759342" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/BirdRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Clonable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Crow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/adapter/Flipkart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/adapter/PaymentGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/adapter/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/adapter/PayuPaymentGatewayAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/adapter/RazorpayPaymentGatewayAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/adapter/payu/PayUGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/adapter/payu/PayUPaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/adapter/razorpay/RazorpayGateway.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -30,19 +35,45 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Aeo66GuwquBtPIWLe1pAwqCbNz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/AVW00S744/Documents/workspace/lldAssignments/src/designPatterns/adapter"
   }
-}</component>
-  <component name="RunManager" selected="Application.designPatterns.prototype.Main">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AVW00S744\Documents\workspace\lldAssignments\src\designPatterns\adapter" />
+      <recent name="C:\Users\AVW00S744\Documents\workspace\lldAssignments\src\designPatterns" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="designPatterns.adapter.razorpay" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.adapter.Client" />
+      <module name="lldAssignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignments.solidprinciples.Main" />
       <module name="lldAssignments" />
@@ -97,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.designPatterns.prototype.Main" />
         <item itemvalue="Application.designPatterns.builder.Main" />
         <item itemvalue="Application.designPatterns.singleton.Main" />
@@ -136,6 +168,8 @@
       <workItem from="1656309329972" duration="41000" />
       <workItem from="1656309384158" duration="219000" />
       <workItem from="1656309621320" duration="109000" />
+      <workItem from="1657522626060" duration="37000" />
+      <workItem from="1657686940459" duration="2735000" />
     </task>
     <servers />
   </component>
