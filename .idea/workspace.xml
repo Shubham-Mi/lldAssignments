@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e87ce3a5-7f70-4c8d-9a82-e8bf6a759342" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/decorator/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/decorator/MushroomTopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/decorator/NormalCrust.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/decorator/OlivesTopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/decorator/OnionTopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/decorator/PanCrust.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/decorator/PaneerTopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/decorator/PepperoniTopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/decorator/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/decorator/ThinCrust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategy/BruteforceSolutionStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategy/PrefixSumSolutionStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategy/RainwaterTrappingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategy/RainwaterTrappingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategy/SolutionMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategy/SolutionRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategy/TwoPointerSolutionStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -60,7 +58,7 @@
       <recent name="designPatterns.adapter.razorpay" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Customer">
+  <component name="RunManager" selected="Application.designPatterns.strategy.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designPatterns.adapter.Client" />
       <module name="lldAssignments" />
@@ -113,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="designPatterns.singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.singleton.Main" />
+    <configuration name="designPatterns.strategy.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.strategy.Client" />
       <module name="lldAssignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.singleton.*" />
+          <option name="PATTERN" value="designPatterns.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.designPatterns.strategy.Client" />
         <item itemvalue="Application.Customer" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.designPatterns.prototype.Main" />
         <item itemvalue="Application.designPatterns.builder.Main" />
-        <item itemvalue="Application.designPatterns.singleton.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +175,15 @@
       <workItem from="1657969088209" duration="414000" />
       <workItem from="1657969512647" duration="247000" />
       <workItem from="1657969773083" duration="391000" />
+      <workItem from="1658734139082" duration="172000" />
+      <workItem from="1658734340405" duration="1949000" />
+      <workItem from="1658738649069" duration="62000" />
+      <workItem from="1658738722530" duration="36000" />
+      <workItem from="1658738768207" duration="90000" />
+      <workItem from="1658738873710" duration="49000" />
+      <workItem from="1658738931088" duration="37000" />
+      <workItem from="1658738991175" duration="108000" />
+      <workItem from="1658739114320" duration="268000" />
     </task>
     <servers />
   </component>
